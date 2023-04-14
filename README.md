@@ -3,7 +3,7 @@
 * Keras로 구현한 MF
 
 * MF를 신경망으로 변환
-<img src="https://drive.google.com/uc?id=1sQDSBAViZvh9YhfLUQj2QiiMzNGtGmIc">
+<img src="https://drive.google.com/uc?id=1sQDSBAViZvh9YhfLUQj2QiiMzNGtGmIc" alt="MF를 신경망으로 변환" height="300" width="400">
 
 * 최종 MF 신경망 모델
-<img src="https://drive.google.com/uc?id=1sQO8nAgg5aNkX36QZj6I2NaH9Mkz7STM">
+<img src="https://drive.google.com/uc?id=1sQO8nAgg5aNkX36QZj6I2NaH9Mkz7STM" alt="최종 MF 신경망 모델" height="300" width="400">
