@@ -1,6 +1,6 @@
 ## 추천시스템 개발 프로젝트
 영화 평점 데이터를 기반으로 한 영화 추천시스템을 만들고 평가합니다.
-* Keras로 구현한 MF
+# 1. Keras로 구현한 MF
 
 * MF를 신경망으로 변환
 <img src="https://drive.google.com/uc?id=1sQDSBAViZvh9YhfLUQj2QiiMzNGtGmIc" alt="MF를 신경망으로 변환" height="300" width="400">
