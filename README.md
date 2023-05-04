@@ -9,7 +9,7 @@
 ### 심화 모델 - 1  
 [3. K-Nearest-Neighbors(KNN) CF Model](https://github.com/CP2J/cp2j/tree/ACJ-17-knn-cf)   
 [4. Singular Value Decomposition(SVD) Model](https://github.com/CP2J/cp2j/tree/ACJ-8-SVD)  
-[5. Matrix Factorization - Stochastic Gradient Descent(MF-SGD) Model](https://github.com/CP2J/cp2j/tree/ACJ-9-MF-SGD)   
+[5. Matrix Factorization - Stochastic Gradient Descent(MF-SGD) Model](https://github.com/CP2J/cp2j/tree/ACJ-9-MF-SGD-)   
 [6. Matrix Factorization - Alternative Least Squares(MF-ALS) Model](https://github.com/CP2J/cp2j/tree/ACJ-10-MF-ALS)   
   
 ### 심화 모델 - 2  
